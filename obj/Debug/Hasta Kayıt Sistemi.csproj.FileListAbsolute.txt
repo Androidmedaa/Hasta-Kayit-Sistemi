@@ -1,0 +1,129 @@
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Hasta Kayıt Sistemi.exe.config
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Hasta Kayıt Sistemi.exe
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Hasta Kayıt Sistemi.pdb
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Npgsql.dll
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Buffers.dll
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Memory.dll
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Text.Json.dll
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Threading.Channels.dll
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.ValueTuple.dll
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Npgsql.xml
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Buffers.xml
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Memory.xml
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Text.Json.xml
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Threading.Channels.xml
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.ValueTuple.xml
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta Kayıt Sistemi.csproj.AssemblyReference.cache
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta_Kayıt_Sistemi.Form1.resources
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta Kayıt Sistemi.csproj.GenerateResource.cache
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta Kayıt Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta Kayıt Sistemi.csproj.CopyComplete
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta Kayıt Sistemi.exe
+C:\Users\Dilber\Desktop\proje_nesne\basicprojeler\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta Kayıt Sistemi.pdb
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Hasta Kayıt Sistemi.exe.config
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Hasta Kayıt Sistemi.exe
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Hasta Kayıt Sistemi.pdb
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Npgsql.dll
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Buffers.dll
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Memory.dll
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Text.Json.dll
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Threading.Channels.dll
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.ValueTuple.dll
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Npgsql.xml
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Buffers.xml
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Memory.xml
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Text.Json.xml
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Threading.Channels.xml
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.ValueTuple.xml
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta Kayıt Sistemi.csproj.AssemblyReference.cache
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta_Kayıt_Sistemi.Form1.resources
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta Kayıt Sistemi.csproj.GenerateResource.cache
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta Kayıt Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta Kayıt Sistemi.csproj.CopyComplete
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta Kayıt Sistemi.exe
+C:\Users\Dilber\Desktop\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta Kayıt Sistemi.pdb
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Hasta Kayıt Sistemi.exe.config
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Hasta Kayıt Sistemi.exe
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Hasta Kayıt Sistemi.pdb
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Npgsql.dll
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Buffers.dll
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Memory.dll
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Text.Json.dll
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Threading.Channels.dll
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.ValueTuple.dll
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\Npgsql.xml
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Buffers.xml
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Memory.xml
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Text.Json.xml
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Threading.Channels.xml
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\bin\Debug\System.ValueTuple.xml
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta Kayıt Sistemi.csproj.AssemblyReference.cache
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta_Kayıt_Sistemi.Form1.resources
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta Kayıt Sistemi.csproj.GenerateResource.cache
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta Kayıt Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta Kayıt Sistemi.csproj.CopyComplete
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta Kayıt Sistemi.exe
+C:\Users\Dilber\Desktop\220601118_Dilber_OZER_Odev2\Hasta Kayıt Sistemi\Hasta Kayıt Sistemi\obj\Debug\Hasta Kayıt Sistemi.pdb
